@@ -1,2 +1,3 @@
 [workspace]
 members = ["cfs", "cfs_cli", "mkcfs"]
+resolver = "2"
