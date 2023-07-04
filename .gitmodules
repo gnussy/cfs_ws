@@ -1,0 +1,9 @@
+[submodule "cfs"]
+	path = cfs
+	url = git@github.com:gnussy/cfs.git
+[submodule "mkcfs"]
+	path = mkcfs
+	url = git@github.com:gnussy/mkcfs.git
+[submodule "cfs_cli"]
+	path = cfs_cli
+	url = git@github.com:gnussy/cfs_cli.git
