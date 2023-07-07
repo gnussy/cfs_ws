@@ -186,6 +186,7 @@ version = "0.1.0"
 dependencies = [
  "cfs",
  "cli-prompts",
+ "deku",
  "owo-colors",
  "reedline-repl-rs",
  "tabled",
